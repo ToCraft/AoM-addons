@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "taba",
+    "name": "There-and-back-again",
+    "description": "A mod, that adds silver spells to am2 for the lotr-mod",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "To_Craft"
+    ],
+    "credits": "Made for the Age of Magica-Server",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "arsmagica2",
+      "lotr"
+    ]
+  }
+]
